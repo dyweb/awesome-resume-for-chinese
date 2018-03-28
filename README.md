@@ -24,8 +24,22 @@
 
 ## HTML/JS
 
+PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是中文简历。
+
 - [Ovilia/cv](https://github.com/Ovilia/cv) Wenli Zhang's CV as Web Front-End Engineer, by [@Ovilia](https://github.com/Ovilia)
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Ovilia/cv/gh-pages/img/cv.png" width="350">
+</div>
+
+- [JSON Resume](https://jsonresume.org/) The open source initiative to create a JSON-based standard for resumes. For developers, by developers. OnePage 模板：
+
+<div align="center">
+	<img src="./images/onepage.png" width="350">
+</div>
+
+- [nuterian/resume](https://github.com/nuterian/resume) by [@nuterian](https://github.com/nuterian)
+
+<div align="center">
+	<img src="./images/jugal.png" width="350">
 </div>
