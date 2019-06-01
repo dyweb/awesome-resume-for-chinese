@@ -33,6 +33,12 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://raw.githubusercontent.com/Ovilia/cv/gh-pages/img/cv.png" width="350">
 </div>
 
+- [Orbit-Theme](https://github.com/xriley/Orbit-Theme) FREE Bootstrap 4 Resume/CV Template for Developers
+
+<div align="center">
+	<img src="./images/laixintao.png" width="350">
+</div>
+
 - [JSON Resume](https://jsonresume.org/) The open source initiative to create a JSON-based standard for resumes. For developers, by developers. OnePage 模板：
 
 <div align="center">
