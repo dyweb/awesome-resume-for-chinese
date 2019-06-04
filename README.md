@@ -50,3 +50,9 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 <div align="center">
 	<img src="./images/jugal.png" width="350">
 </div>
+
+- [itsay/resume](https://gitee.com/itsay/resume) 前端求职/程序员求职简历模板 by [@uhr](https://github.com/uhr)
+
+<div align="center">
+	<img src="./images/zhang.png" width="450">
+</div>
