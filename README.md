@@ -56,3 +56,15 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 <div align="center">
 	<img src="./images/zhang.png" width="450">
 </div>
+
+- [crispgm/resume](https://github.com/crispgm/resume) A minimalist resume template for Jekyll by [@crispgm](https://github.com/crispgm)
+
+<div align="center">
+	<img src="./images/jekyll.png" width="450">
+</div>
+
+- [guanpengchn/markdown-resume](https://github.com/guanpengchn/markdown-resume) 支持markdown和富文本的在线简历排版工具 by [@guanpengchn](https://github.com/guanpengchn)
+
+<div align="center">
+	<img src="./images/xiaojizhi.png" width="450">
+</div>
