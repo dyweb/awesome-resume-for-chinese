@@ -68,3 +68,9 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 <div align="center">
 	<img src="./images/xiaojizhi.png" width="450">
 </div>
+
+- [Lxxyx/LxxyxResume](https://github.com/Lxxyx/LxxyxResume) 前端设计师求职简历模板 by [@Lxxyx](https://github.com/Lxxyx) 
+
+<div align="center"> 
+	<img src="./images/Lxxyx.png" width="450"> 
+</div>
