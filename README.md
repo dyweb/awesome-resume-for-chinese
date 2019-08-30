@@ -74,3 +74,10 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 <div align="center"> 
 	<img src="./images/Lxxyx.png" width="450"> 
 </div>
+
+- [mcc108/resume](https://github.com/mcc108/resume) 前端开发工程师简历模板 by [@mcc108](https://github.com/mcc108) 
+
+<div align="center"> 
+	<img src="./images/mcc108.png" width="450"> 
+</div>
+
