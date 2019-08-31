@@ -81,9 +81,9 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="./images/mcc108.png" width="450"> 
 </div>
 
-- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) 适用于多个行业的简历模板选择器 by [salomonelli](https://github.com/salomonelli)
+- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) 适用于多个行业的简历模板选择器 by [@salomonelli](https://github.com/salomonelli)
 
 <div align="center"> 
-	<img src="./images/salomonelli" width="450"> 
+	<img src="./images/salomonelli.png" width="450"> 
 </div>
 
