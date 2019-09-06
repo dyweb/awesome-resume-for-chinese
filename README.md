@@ -23,6 +23,11 @@
 
 - [billryan/resume](https://github.com/billryan/resume) An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
 
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/1292567/62409353-3fecfc00-b608-11e9-8e83-84962912c956.png" width="350">
+</div>
+
+
 ## HTML/JS
 
 PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是中文简历。
