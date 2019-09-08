@@ -32,10 +32,17 @@
 
 PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是中文简历。
 
-- [Ovilia/cv](https://github.com/Ovilia/cv) Wenli Zhang's CV as Web Front-End Engineer, by [@Ovilia](https://github.com/Ovilia)
+
+- [hoodiearon/resume](https://github.com/hoodiearon/resume) IT运维及技术支持工程师简历, by [@hoodiearon](https://github.com/Ovilia)
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Ovilia/cv/gh-pages/img/cv.png" width="350">
+</div>
+
+- [Ovilia/cv](https://github.com/Ovilia/cv) Wenli Zhang's CV as Web Front-End Engineer, by [@Ovilia](https://github.com/Ovilia)
+
+<div align="center">
+	<img src="./images/hoodiearon.png" width="350">
 </div>
 
 - [Orbit-Theme](https://github.com/xriley/Orbit-Theme) FREE Bootstrap 4 Resume/CV Template for Developers
