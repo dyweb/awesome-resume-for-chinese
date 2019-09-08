@@ -33,7 +33,7 @@
 PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是中文简历。
 
 
-- [hoodiearon/resume](https://github.com/hoodiearon/resume) IT运维及技术支持工程师简历, by [@hoodiearon](https://github.com/Ovilia)
+- [hoodiearon/resume](https://github.com/hoodiearon/resume) IT运维及技术支持工程师简历, by [@hoodiearon](https://github.com/hoodiearon)
 
 <div align="center">
 	<img src="./images/hoodiearon.png" width="350">
