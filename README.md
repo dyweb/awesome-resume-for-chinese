@@ -39,7 +39,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="./images/hoodiearon.png" width="350">
 </div>
 
-- [nzbin/resume-boilerplate](https://nzbin.github.io/resume-boilerplate/) Wenli Zhang's CV as Web Front-End Engineer, by [@Onzbin](https://github.com/nzbin/resume-boilerplate)
+- [nzbin/resume-boilerplate](https://nzbin.github.io/resume-boilerplate/) 如何写一份优秀的前端简历, by [@nzbin](https://github.com/nzbin/resume-boilerplate)
 
 <div align="center">
 	<img src="./images/nzbin1.png" width="350">
