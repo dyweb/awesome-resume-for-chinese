@@ -32,22 +32,6 @@
 
 PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是中文简历。
 
-
-- [hoodiearon/resume](https://github.com/hoodiearon/resume) IT运维及技术支持工程师简历, by [@hoodiearon](https://github.com/hoodiearon)
-
-<div align="center">
-	<img src="./images/hoodiearon.png" width="350">
-</div>
-
-- [nzbin/resume-boilerplate](https://nzbin.github.io/resume-boilerplate/) 如何写一份优秀的前端简历, by [@nzbin](https://github.com/nzbin/resume-boilerplate)
-
-<div align="center">
-	<img src="./images/nzbin1.png" width="350">
-	<img src="./images/nzbin2.png" width="350">
-</div>
-
-
-
 - [Ovilia/cv](https://github.com/Ovilia/cv) Wenli Zhang's CV as Web Front-End Engineer, by [@Ovilia](https://github.com/Ovilia)
 
 <div align="center">
@@ -60,11 +44,6 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="./images/laixintao.png" width="350">
 </div>
 
-- [JSON Resume](https://jsonresume.org/) The open source initiative to create a JSON-based standard for resumes. For developers, by developers. OnePage 模板：
-
-<div align="center">
-	<img src="./images/onepage.png" width="350">
-</div>
 
 - [nuterian/resume](https://github.com/nuterian/resume) by [@nuterian](https://github.com/nuterian)
 
@@ -76,6 +55,12 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 
 <div align="center">
 	<img src="./images/zhang.png" width="450">
+</div>
+
+- [hoodiearon/resume](https://github.com/hoodiearon/resume) IT运维及技术支持工程师简历, by [@hoodiearon](https://github.com/hoodiearon)
+
+<div align="center">
+	<img src="./images/hoodiearon.png" width="350">
 </div>
 
 - [crispgm/resume](https://github.com/crispgm/resume) A minimalist resume template for Jekyll by [@crispgm](https://github.com/crispgm)
@@ -102,7 +87,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="./images/mcc108.png" width="450"> 
 </div>
 
-- [zhaoky/flqin](https://github.com/zhaoky/flqin) 前端开发工程师简历 by [@zhaoky](https://github.com/zhaoky/flqin) 
+- [zhaoky/flqin](https://github.com/zhaoky/flqin) 前端开发工程师网页简历 by [@zhaoky](https://github.com/zhaoky/flqin) 
 
 <div align="center"> 
 	<img src="./images/zhaoky.png" width="450"> 
@@ -114,9 +99,21 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="./images/yujiangshui.png" width="450"> 
 </div>
 
+- [JSON Resume](https://jsonresume.org/) The open source initiative to create a JSON-based standard for resumes. For developers, by developers. OnePage 模板：
+
+<div align="center">
+	<img src="./images/onepage.png" width="350">
+</div>
+
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) 适用于多个行业的简历模板选择器 by [@salomonelli](https://github.com/salomonelli)
 
 <div align="center"> 
 	<img src="./images/salomonelli.png" width="450"> 
 </div>
 
+- [nzbin/resume-boilerplate](https://nzbin.github.io/resume-boilerplate/) 如何写一份优秀的前端简历, by [@nzbin](https://github.com/nzbin/resume-boilerplate)
+
+<div align="center">
+	<img src="./images/nzbin1.png" width="350">
+	<img src="./images/nzbin2.png" width="350">
+</div>
