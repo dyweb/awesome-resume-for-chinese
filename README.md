@@ -57,7 +57,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="./images/zhang.png" width="450">
 </div>
 
-- [hoodiearon/resume](https://github.com/hoodiearon/jsonresume-theme-mix) IT运维及技术支持工程师简历, by [@hoodiearon](https://github.com/hoodiearon)
+- [jsonresume-theme-mix](https://github.com/hoodiearon/jsonresume-theme-mix) IT运维及技术支持工程师简历, by [@hoodiearon](https://github.com/hoodiearon)
 
 <div align="center">
 	<img src="./images/hoodiearon.png" width="350">
