@@ -32,6 +32,12 @@
 
 PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是中文简历。
 
+- [NewFuture/CV](https://github.com/NewFuture/CV)  markdown在线简历生成模板 by [@NewFuture](https://github.com/NewFuture)
+
+<div align="center">
+	<img src="./images/newfuture.png" width="450">
+</div>
+
 - [Ovilia/cv](https://github.com/Ovilia/cv) Wenli Zhang's CV as Web Front-End Engineer, by [@Ovilia](https://github.com/Ovilia)
 
 <div align="center">
