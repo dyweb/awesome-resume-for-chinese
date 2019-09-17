@@ -27,6 +27,12 @@
 	<img src="https://user-images.githubusercontent.com/1292567/62409353-3fecfc00-b608-11e9-8e83-84962912c956.png" width="350">
 </div>
 
+- [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) The Markdown Resume by [@mszep](https://github.com/mszep)
+
+<div align="center">
+	<img src="./images/mszep.png" width="350">
+</div>
+
 
 ## HTML/JS
 
