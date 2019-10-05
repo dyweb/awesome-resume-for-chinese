@@ -30,7 +30,7 @@
 - [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) The Markdown Resume by [@mszep](https://github.com/mszep)
 
 <div align="center">
-	<img src="./images/mszep.png" width="350">
+	<img src="https://i.postimg.cc/mgmWW894/mszep.png" width="350">
 </div>
 
 
@@ -41,7 +41,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 - [NewFuture/CV](https://github.com/NewFuture/CV)  markdown在线简历生成模板 by [@NewFuture](https://github.com/NewFuture)
 
 <div align="center">
-	<img src="./images/newfuture.png" width="450">
+	<img src="https://i.postimg.cc/zBcfDqRJ/newfuture.png" width="450">
 </div>
 
 - [Ovilia/cv](https://github.com/Ovilia/cv) Wenli Zhang's CV as Web Front-End Engineer, by [@Ovilia](https://github.com/Ovilia)
@@ -53,79 +53,80 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 - [Orbit-Theme](https://github.com/xriley/Orbit-Theme) FREE Bootstrap 4 Resume/CV Template for Developers
 
 <div align="center">
-	<img src="./images/laixintao.png" width="350">
+	<img src="https://i.postimg.cc/xdW0B6rC/laixintao.png" width="350">
 </div>
 
 
 - [nuterian/resume](https://github.com/nuterian/resume) by [@nuterian](https://github.com/nuterian)
 
 <div align="center">
-	<img src="./images/jugal.png" width="350">
+	<img src="https://i.postimg.cc/bJz6YhfF/jugal.png" width="350">
 </div>
 
 - [itsay/resume](https://gitee.com/itsay/resume) 前端求职/程序员求职简历模板 by [@uhr](https://github.com/uhr)
 
 <div align="center">
-	<img src="./images/zhang.png" width="450">
+	<img src="https://i.postimg.cc/VsJhJzb3/zhang.png" width="450">
 </div>
 
 - [jsonresume-theme-mix](https://github.com/hoodiearon/jsonresume-theme-mix) IT运维及技术支持工程师简历, by [@hoodiearon](https://github.com/hoodiearon)
 
 <div align="center">
-	<img src="./images/hoodiearon.png" width="550">
+	<img src="https://i.postimg.cc/fW0Gwdwq/hoodiearon.jpg
+	" width="550">
 </div>
 
 - [crispgm/resume](https://github.com/crispgm/resume) A minimalist resume template for Jekyll by [@crispgm](https://github.com/crispgm)
 
 <div align="center">
-	<img src="./images/jekyll.png" width="450">
+	<img src="https://i.postimg.cc/t4cZCtQ0/jekyll.png" width="450">
 </div>
 
 - [guanpengchn/markdown-resume](https://github.com/guanpengchn/markdown-resume) 支持markdown和富文本的在线简历排版工具 by [@guanpengchn](https://github.com/guanpengchn)
 
 <div align="center">
-	<img src="./images/xiaojizhi.png" width="450">
+	<img src="https://i.postimg.cc/0QTh84Z6/xiaojizhi.png" width="450">
 </div>
 
 - [Lxxyx/LxxyxResume](https://github.com/Lxxyx/LxxyxResume) 前端设计师求职简历模板 by [@Lxxyx](https://github.com/Lxxyx) 
 
 <div align="center"> 
-	<img src="./images/Lxxyx.png" width="450"> 
+	<img src="https://i.postimg.cc/8zxRnVCr/Lxxyx.png" width="450"> 
 </div>
 
 - [mcc108/resume](https://github.com/mcc108/resume) 前端开发工程师简历模板 by [@mcc108](https://github.com/mcc108) 
 
 <div align="center"> 
-	<img src="./images/mcc108.png" width="450"> 
+	<img src="https://i.postimg.cc/gJs6d9Gs/mcc108.jpg" width="450"> 
 </div>
 
 - [zhaoky/flqin](https://github.com/zhaoky/flqin) 前端开发工程师网页简历 by [@zhaoky](https://github.com/zhaoky/flqin) 
 
 <div align="center"> 
-	<img src="./images/zhaoky.png" width="450"> 
+	<img src="https://i.postimg.cc/tRmYzNJs/zhaoky.png" width="450"> 
 </div>
 
 - [yujiangshui/about-me](https://github.com/yujiangshui/about-me) 个人网页型简历 by [@yujiangshui](https://github.com/yujiangshui)
 
 <div align="center"> 
-	<img src="./images/yujiangshui.png" width="450"> 
+	<img src="https://i.postimg.cc/MpJZsPSp/yujiangshui.png" width="450"> 
 </div>
 
 - [JSON Resume](https://jsonresume.org/) The open source initiative to create a JSON-based standard for resumes. For developers, by developers. OnePage 模板：
 
 <div align="center">
-	<img src="./images/onepage.png" width="350">
+	<img src="https://i.postimg.cc/8cDQR3v2/onepage.png" width="350">
 </div>
 
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) 适用于多个行业的简历模板选择器 by [@salomonelli](https://github.com/salomonelli)
 
 <div align="center"> 
-	<img src="./images/salomonelli.png" width="450"> 
+	<img src="https://i.postimg.cc/qRxZT7tF/salomonelli.png"> 
 </div>
 
 - [nzbin/resume-boilerplate](https://nzbin.github.io/resume-boilerplate/) 如何写一份优秀的前端简历, by [@nzbin](https://github.com/nzbin/resume-boilerplate)
 
 <div align="center">
-	<img src="./images/nzbin1.png" width="350">
-	<img src="./images/nzbin2.png" width="350">
+	<img src="https://i.postimg.cc/63WfCf3H/nzbin1.png" width="350">
+	<img src="https://i.postimg.cc/W4XkcLNn/nzbin2.png" width="350">
 </div>
