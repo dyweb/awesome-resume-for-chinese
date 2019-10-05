@@ -99,6 +99,13 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/gJs6d9Gs/mcc108.jpg" width="450"> 
 </div>
 
+- [xiao555/resume-it](https://github.com/xiao555/resume-it) web前端工程师求职模板 by [@xiao555](https://github.com/xiao555) 
+
+<div align="center"> 
+	<img src="https://raw.githubusercontent.com/xiao555/resume-it/master/resume.png" width="450"> 
+</div>
+
+
 - [zhaoky/flqin](https://github.com/zhaoky/flqin) 前端开发工程师网页简历 by [@zhaoky](https://github.com/zhaoky/flqin) 
 
 <div align="center"> 
