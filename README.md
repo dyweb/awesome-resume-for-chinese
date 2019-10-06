@@ -27,6 +27,13 @@
 	<img src="https://user-images.githubusercontent.com/1292567/62409353-3fecfc00-b608-11e9-8e83-84962912c956.png" width="350">
 </div>
 
+- [opensorceror/Data-Engineer-Resume-LaTeX](https://github.com/opensorceror/Data-Engineer-Resume-LaTeX) Tailored for the recent graduate who aspires to be a Data Scientist/Engineer, by [@opensorceror](https://github.com/opensorceror)
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/opensorceror/Data-Engineer-Resume-LaTeX/master/screen.png" width="350">
+</div>
+
+
 - [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) The Markdown Resume by [@mszep](https://github.com/mszep)
 
 <div align="center">
