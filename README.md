@@ -76,7 +76,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/VsJhJzb3/zhang.png" width="450">
 </div>
 
-- [jsonresume-theme-mix](https://github.com/hoochalon/jsonresume-theme-mix) IT运维及技术支持工程师简历, by [@hoochanlon](https://github.com/hoochalon)
+- [jsonresume-theme-mix](https://github.com/hoochalon/jsonresume-theme-mix) IT运维及网络工程师简历, by [@hoochanlon](https://github.com/hoochalon)
 
 <div align="center">
 	<img src="https://i.postimg.cc/2jMZYG7S/resume1.png" width="350">
