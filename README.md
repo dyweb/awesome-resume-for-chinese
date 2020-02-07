@@ -64,10 +64,10 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 </div>
 
 
-- [nuterian/resume](https://github.com/nuterian/resume) by [@nuterian](https://github.com/nuterian)
+- [DreamBroke/resume-master](https://github.com/DreamBroke/resume-master) 后端程序员求职简历markdown样式模板 by [@DreamBroke](https://github.com/DreamBroke)
 
 <div align="center">
-	<img src="https://i.postimg.cc/bJz6YhfF/jugal.png" width="350">
+	<img src="https://i.postimg.cc/Yq0x32wj/Dream-Broke.png" width="350">
 </div>
 
 - [itsay/resume](https://gitee.com/itsay/resume) 前端求职/程序员求职简历模板 by [@uhr](https://github.com/uhr)
@@ -76,7 +76,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/VsJhJzb3/zhang.png" width="450">
 </div>
 
-- [jsonresume-theme-mix](https://github.com/hoochalon/jsonresume-theme-mix) IT运维及网络工程师简历, by [@hoochanlon](https://github.com/hoochalon)
+- [jsonresume-theme-mix](https://github.com/hoochalon/jsonresume-theme-mix) IT运维及网络工程师简历 by [@hoochanlon](https://github.com/hoochalon)
 
 <div align="center">
 	<img src="https://i.postimg.cc/2jMZYG7S/resume1.png" width="350">
@@ -130,6 +130,12 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 
 <div align="center">
 	<img src="https://i.postimg.cc/8cDQR3v2/onepage.png" width="350">
+</div>
+
+- [nuterian/resume](https://github.com/nuterian/resume) by [@nuterian](https://github.com/nuterian)
+
+<div align="center">
+	<img src="https://i.postimg.cc/bJz6YhfF/jugal.png" width="350">
 </div>
 
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) 适用于多个行业的简历模板选择器 by [@salomonelli](https://github.com/salomonelli)
