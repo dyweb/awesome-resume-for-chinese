@@ -79,8 +79,8 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 - [jsonresume-theme-mix](https://github.com/hoochalon/jsonresume-theme-mix) IT运维及网络工程师简历 by [@hoochanlon](https://github.com/hoochalon)
 
 <div align="center">
-	<img src="https://i.postimg.cc/2jMZYG7S/resume1.png" width="350">
-    <img src="https://i.postimg.cc/J4XBzXpc/resume2.png" width="350">
+	<img src="https://i.postimg.cc/y65xTfZ2/r1.png" width="350">
+    <img src="https://i.postimg.cc/65v3bdVq/r2.png" width="350">
 </div>
 
 - [crispgm/resume](https://github.com/crispgm/resume) A minimalist resume template for Jekyll by [@crispgm](https://github.com/crispgm)
