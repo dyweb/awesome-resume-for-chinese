@@ -83,6 +83,14 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
     <img src="https://i.postimg.cc/65v3bdVq/r2.png" width="350">
 </div>
 
+
+- [ckjbug/resume](https://github.com/ckjbug/Resume) 软件开发工程师简历 by [@ckjbug](https://github.com/ckjbug)
+
+<div align="center">
+	<img src="https://i.postimg.cc/bN25bBFd/ckjbug.png" width="450">
+</div>
+
+
 - [crispgm/resume](https://github.com/crispgm/resume) A minimalist resume template for Jekyll by [@crispgm](https://github.com/crispgm)
 
 <div align="center">
