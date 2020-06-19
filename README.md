@@ -77,7 +77,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 </div>
 
 - IT信息运维工程师简历 by [@hoochanlon](https://github.com/hoochalon)
-	* [jsonresume-theme-mix](https://github.com/hoochalon/jsonresume-theme-mix) 
+	* [jsonresume-theme-mix](https://github.com/hoochanlon/jsonresume-theme-mix) 
 	* [about.me](https://github.com/hoochanlon/about.me)
 
 <div align="center">
