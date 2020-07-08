@@ -27,6 +27,13 @@
 	<img src="https://user-images.githubusercontent.com/1292567/62409353-3fecfc00-b608-11e9-8e83-84962912c956.png" width="350">
 </div>
 
+
+- [hijiangtao/resume](https://github.com/hijiangtao/resume) 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) by [@hijiangtao](https://github.com/hijiangtao)
+
+<div align="center">
+	<img src="https://i.postimg.cc/7hYTR1MT/hijiangtao.png" width="350">
+</div>
+
 - [opensorceror/Data-Engineer-Resume-LaTeX](https://github.com/opensorceror/Data-Engineer-Resume-LaTeX) Tailored for the recent graduate who aspires to be a Data Scientist/Engineer, by [@opensorceror](https://github.com/opensorceror)
 
 <div align="center">
