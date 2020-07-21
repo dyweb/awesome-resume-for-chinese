@@ -34,6 +34,14 @@
 	<img src="https://i.postimg.cc/7hYTR1MT/hijiangtao.png" width="350">
 </div>
 
+
+- [liweitianux/resume](https://github.com/liweitianux/resume) 中英文简历 Latex 模板 by [@liweitianux](https://github.com/liweitianux)
+
+<div align="center">
+	<img src="https://i.postimg.cc/6QGmydsS/liweit.png" width="350">
+</div>
+
+
 - [opensorceror/Data-Engineer-Resume-LaTeX](https://github.com/opensorceror/Data-Engineer-Resume-LaTeX) Tailored for the recent graduate who aspires to be a Data Scientist/Engineer, by [@opensorceror](https://github.com/opensorceror)
 
 <div align="center">
