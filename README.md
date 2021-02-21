@@ -91,13 +91,17 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/VsJhJzb3/zhang.png" width="450">
 </div>
 
-- IT信息运维工程师简历 by [@hoochanlon](https://github.com/hoochalon)
-	* [jsonresume-theme-mix](https://github.com/hoochanlon/jsonresume-theme-mix) 
-	* [about.me](https://github.com/hoochanlon/about.me)
+-  [jsonresume-theme-mix](https://github.com/hoochanlon/jsonresume-theme-mix) IT信息运维工程师简历 by [@hoochanlon](https://github.com/hoochalon)
 
 <div align="center">
-  <img src="https://i.postimg.cc/y65xTfZ2/r1.png" width="350">
-    <img src="https://i.postimg.cc/hvHpyDLr/r3.png" width="350">
+  <img src="https://i.postimg.cc/y65xTfZ2/r1.png" width="450">
+</div>
+
+- [gwuhaolin/resume](https://github.com/gwuhaolin/resume) Golang后端工程师简历 by [@gwuhaolin](https://github.com/gwuhaolin)
+
+<div align="center">
+	 <img src="https://i.postimg.cc/Rh2dWr71/2021-02-21-102210.png" width="450">
+	
 </div>
 
 
