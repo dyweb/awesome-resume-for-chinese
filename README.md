@@ -177,6 +177,5 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 - [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) ⭐️ Markdown 简历模版, by [@CyC2018](https://github.com/)
 
 <div align="center">
-	<img src="https://i.postimg.cc/63WfCf3H/nzbin1.png" width="350">
-	<img src="https://i.postimg.cc/W4XkcLNn/nzbin2.png" width="350">
+	<img src="https://i.postimg.cc/fb9hQf4q/Resume.png" width="350">
 </div>
