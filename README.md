@@ -166,9 +166,16 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/qRxZT7tF/salomonelli.png"> 
 </div>
 
-- [nzbin/resume-boilerplate](https://nzbin.github.io/resume-boilerplate/) 如何写一份优秀的前端简历, by [@nzbin](https://github.com/nzbin/resume-boilerplate)
+- [nzbin/resume-boilerplate](https://nzbin.github.io/resume-boilerplate/) 如何写一份优秀的前端简历, by [@nzbin](https://github.com/nzbin)
 
 <div align="center">
 	<img src="https://i.postimg.cc/63WfCf3H/nzbin1.png" width="350">
 	<img src="https://i.postimg.cc/W4XkcLNn/nzbin2.png" width="350">
+</div>
+
+
+- [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) ⭐️ Markdown 简历模版, by [@CyC2018](https://github.com/CyC2018)
+
+<div align="center">
+	<img src="https://i.postimg.cc/fb9hQf4q/Resume.png" width="350">
 </div>
