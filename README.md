@@ -174,7 +174,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 </div>
 
 
-- [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) ⭐️ Markdown 简历模版, by [@CyC2018](https://github.com/)
+- [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) ⭐️ Markdown 简历模版, by [@CyC2018](https://github.com/CyC2018)
 
 <div align="center">
 	<img src="https://i.postimg.cc/fb9hQf4q/Resume.png" width="350">
