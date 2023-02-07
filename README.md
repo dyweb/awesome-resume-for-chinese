@@ -34,6 +34,12 @@
 	<img src="https://i.postimg.cc/7hYTR1MT/hijiangtao.png" width="350">
 </div>
 
+- [resume-ng](https://github.com/fky2015/resume-ng) 一个旨在实现最佳的信息密度和美学吸引力的 $\LaTeX$ 简历排版模板项目，by [@fky2015](https://github.com/fky2015)
+
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/16451516/217149842-25769714-45b4-4e10-93c9-72ae2cc921c5.png" width="400">
+</div>
+
 
 - [liweitianux/resume](https://github.com/liweitianux/resume) 中英文简历 Latex 模板 by [@liweitianux](https://github.com/liweitianux)
 
