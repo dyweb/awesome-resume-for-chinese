@@ -185,3 +185,13 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 <div align="center">
 	<img src="https://i.postimg.cc/fb9hQf4q/Resume.png" width="350">
 </div>
+
+
+## Typst
+
+- [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) 使用 Typst (一种比 LaTeX 更简单易学的排版标记语言) 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片, by [@OrangeX4](https://github.com/OrangeX4)
+
+<div align="center">
+	<img src="https://i.postimg.cc/YS1kJH4c/image.png" width="350">
+	<img src="https://i.postimg.cc/BbzdjY8c/image.png" width="350">
+</div>
