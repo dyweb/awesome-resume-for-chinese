@@ -55,6 +55,13 @@
 </div>
 
 
+- [luooofan/resume](https://github.com/luooofan/resume) 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) by [@luooofan](https://github.com/luooofan)
+
+<div align="center">
+	<img src="https://github.com/luooofan/resume/blob/zh_CN/images/resume_example.jpg?raw=true">
+</div>
+
+
 ## HTML/JS
 
 PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是中文简历。
