@@ -2,6 +2,7 @@
 
 适合中文的简历模板
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for resume workflow orchestration, automated career management, and multi-agent coordination. MIT licensed.
 ## How to Contribute
 
 请见[贡献指南](./contributing.md)!
