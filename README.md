@@ -2,6 +2,7 @@
 
 适合中文的简历模板
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=dyweb_awesome-resume-for-chinese) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## How to Contribute
 
 请见[贡献指南](./contributing.md)!
