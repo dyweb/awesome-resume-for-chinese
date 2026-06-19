@@ -129,6 +129,8 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/0QTh84Z6/xiaojizhi.png" width="450">
 </div>
 
+- [AI简历关键词表生成器](https://ronnie2025.github.io/ai-agent-workbench-starter-pack/ai-resume-keyword-table-generator.html) 根据目标岗位 JD 和简历摘要生成关键词表、改写建议和 STAR 面试准备题，by [@Ronnie2025](https://github.com/Ronnie2025)
+
 - [Lxxyx/LxxyxResume](https://github.com/Lxxyx/LxxyxResume) 前端设计师求职简历模板 by [@Lxxyx](https://github.com/Lxxyx) 
 
 <div align="center"> 
