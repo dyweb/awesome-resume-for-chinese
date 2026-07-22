@@ -68,6 +68,18 @@
 	<img src="https://github.com/Horldsence/resume_template/raw/main/image/image.jpg?raw=true">
 </div>
 
+- [kodyyu1126/Chinese-resume-template-work](https://github.com/kodyyu1126/Chinese-resume-template-work) 中文求职简历 LaTeX 模板，适合展示教育背景、实习经历、项目经历、校园经历与荣誉技能，使用 XeLaTeX 编译 by [@kodyyu1126](https://github.com/kodyyu1126)
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/kodyyu1126/Chinese-resume-template-work/main/assets/resume-preview.png" width="350">
+</div>
+
+- [kodyyu1126/Chinese-resume-template-postgraduate](https://github.com/kodyyu1126/Chinese-resume-template-postgraduate) 中文考研复试简历 LaTeX 模板，适合展示报考信息、初试成绩与复试经历，使用 XeLaTeX 编译 by [@kodyyu1126](https://github.com/kodyyu1126)
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/kodyyu1126/Chinese-resume-template-postgraduate/main/assets/resume-preview.png" width="350">
+</div>
+
 ## HTML/JS
 
 PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是中文简历。
