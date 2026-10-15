@@ -203,6 +203,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 <div align="center">
 	<img src="https://i.postimg.cc/fb9hQf4q/Resume.png" width="350">
 </div>
+- [ResumePlot 网页简历模板](https://resumeplot.com/templates) 六套中文网页简历模板预览及在线编辑入口，另有英文界面；AI、云保存和分享需账号。该项为在线服务链接。
 
 
 ## Typst
