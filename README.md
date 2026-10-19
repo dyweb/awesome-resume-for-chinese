@@ -97,6 +97,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 </div>
 
 - [Orbit-Theme](https://github.com/xriley/Orbit-Theme) FREE Bootstrap 4 Resume/CV Template for Developers
+- [magicapple123/ResumeForge](https://github.com/magicapple123/ResumeForge) 本地优先的 AI 简历工作台：简历生成、岗位管理、事实台账防虚构、模拟面试与自动投递，数据只存本机 by [@magicapple123](https://github.com/magicapple123)
 
 <div align="center">
 	<img src="https://i.postimg.cc/xdW0B6rC/laixintao.png" width="350">
