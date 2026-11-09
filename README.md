@@ -204,6 +204,13 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/fb9hQf4q/Resume.png" width="350">
 </div>
 
+- [amd47802574/resume-template](https://github.com/amd47802574/resume-template) 简洁专业的中文简历 HTML 模板，适配 A4 打印尺寸，支持浏览器直接导出 PDF，附带 AI 工具修改指南 by [@amd47802574](https://github.com/amd47802574)
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/amd47802574/resume-template/main/assets/page-1.png" width="350">
+	<img src="https://raw.githubusercontent.com/amd47802574/resume-template/main/assets/page-2.png" width="350">
+</div>
+
 
 ## Typst
 
