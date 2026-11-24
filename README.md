@@ -205,6 +205,13 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 </div>
 
 
+
+- [devbox-zero-ops/resumemd-zero](https://github.com/devbox-zero-ops/resumemd-zero) 纯本地隐私优先的中英文 Markdown 简历编辑器，支持 4 套打印主题、`### 标题 | 右侧时间` 自动对齐与浏览器一键无水印 PDF 导出（[在线体验](https://devbox-zero-ops.github.io/resumemd-zero/)），by [@devbox-zero-ops](https://github.com/devbox-zero-ops)
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/devbox-zero-ops/resumemd-zero/main/assets/preview.png" width="350">
+</div>
+
 ## Typst
 
 - [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) 使用 Typst (一种比 LaTeX 更简单易学的排版标记语言) 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片, by [@OrangeX4](https://github.com/OrangeX4)
